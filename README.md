@@ -6,7 +6,7 @@
 - ⚡ Sobre mim: **Determinado, aprendiz, Ouvinte, Curioso, Inventivo, um pouco Impaciente.**
 
 Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta atual é começar a trabalhar na área do Front end, passar para o back end para, futuramente, me capacitar para uma vaga de Full Stack. Por hora, pretendo  armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
-🔎 Conheça meu portfólio
+<h2> 🔎 Conheça meu portfólio <h2>
 
 <br> JavaScript: https://github.com/vitorgatto/MeuCaminhoJS </br>
 <br> HTML5: https://github.com/vitorgatto/MeuCaminhoHTML5 </br>
