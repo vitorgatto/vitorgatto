@@ -1,12 +1,11 @@
 <h1 align="center">Olá! Me chamo João Vitor Piccirillo Gatto</h1>
-<h3 align="center">Meta🎯: Desenvolvedor Full Stack</h3>
+<h3 align="center">Meta🎯: Desenvolvedor Front End</h3>
 
 - 📫 E-mail: **joaogatto.dev@outlook.com**
 
 - ⚡ Sobre mim: **Determinado, aprendiz, Ouvinte, Curioso, Inventivo, um pouco Impaciente.**
 
-Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta agora é me capacitar para uma vaga de 
-Full Stack. Por hora, pretendo armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
+Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta atual é começar a trabalhar na área do Front end, passar para o back end para, futuramente, me capacitar para uma vaga de Full Stack. Por hora, pretendo  armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
 https://github.com/vitorgatto/exercicios.git
 
 <h3 align="left">Connect with me:</h3>
