@@ -10,7 +10,7 @@ Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, mi
 
 <br> JavaScript: https://github.com/vitorgatto/MeuCaminhoJS </br>
 <br> HTML5: https://github.com/vitorgatto/MeuCaminhoHTML5 </br>
-CSS: https://github.com/vitorgatto/MeuCaminhoCSS
+<br> CSS: https://github.com/vitorgatto/MeuCaminhoCSS </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
