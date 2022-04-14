@@ -7,7 +7,8 @@
 
 Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta atual é começar a trabalhar na área do Front end, passar para o back end para, futuramente, me capacitar para uma vaga de Full Stack. Por hora, pretendo  armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
 🔎 Conheça meu portfólio
-Javascript: https://github.com/vitorgatto/MeuCaminhoJS
+
+<br> JavaScript: https://github.com/vitorgatto/MeuCaminhoJS </br>
 HTML5: https://github.com/vitorgatto/MeuCaminhoHTML5
 CSS: https://github.com/vitorgatto/MeuCaminhoCSS
 
