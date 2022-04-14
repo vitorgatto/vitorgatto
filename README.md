@@ -9,7 +9,7 @@ Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, mi
 🔎 Conheça meu portfólio
 
 <br> JavaScript: https://github.com/vitorgatto/MeuCaminhoJS </br>
-HTML5: https://github.com/vitorgatto/MeuCaminhoHTML5
+<br> HTML5: https://github.com/vitorgatto/MeuCaminhoHTML5 </br>
 CSS: https://github.com/vitorgatto/MeuCaminhoCSS
 
 <h3 align="left">Connect with me:</h3>
