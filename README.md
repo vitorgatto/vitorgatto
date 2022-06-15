@@ -3,7 +3,8 @@
 
 - 📫 E-mail: **joaogatto.dev@outlook.com**
 
-- ⚡ Sobre mim: **Determinado, aprendiz, Ouvinte, Curioso, Inventivo, um pouco Impaciente.**
+- ⚡ Sobre mim: 
+**- Sou estudante de programação e estou entrando no mercado de Programação. Já realizei projetos Front End como sites e jogos. Meu desafio mais recente foi clonar a interface inicial do Facebook. Ganhei muito aprendizado sobre HTML e CSS. O resultado pode ser visto em minha página do GitHub. Atualmente, estou iniciando os estudos de ReactJS e MySQL. Meu nível de inglês é básico, entretanto, me sinto familiarizado com leitura e entendo uma pequena conversação.**
 
 Apesar de ainda não ter tido experiências profissionais como Desenvolvedor, minha maior meta atual é começar a trabalhar na área do Front end, passar para o back end para, futuramente, me capacitar para uma vaga de Full Stack. Por hora, pretendo  armazenar todos os projetos que farei para exercitar meu conhecimento em JS, HTML5 e CSS.
 <h2> 🔎 Conheça meu portfólio <h2>
